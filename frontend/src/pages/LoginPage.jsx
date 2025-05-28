@@ -64,7 +64,7 @@ const LoginPage = () => {
       {/* Register link below form */}
       <p style={{ marginTop: "15px", textAlign: "center" }}>
         Don't have an account?{" "}
-        <Link to="/register" style={{ color: "blue", textDecoration: "underline" }}>
+        <Link to="/register" style={{ color: "blueviolet", textDecoration: "underline" }}>
           Register here
         </Link>
       </p>

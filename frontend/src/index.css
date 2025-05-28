@@ -9,7 +9,7 @@
 }
 
 body {
-  background: #f4f7fa;
+  background: #f3f3f3c4;
   color: #333;
   min-height: 100vh;
 }
@@ -18,7 +18,7 @@ body {
 .container {
   max-width: 400px;
   margin: 40px auto;
-  background: white;
+  background: rgba(209, 212, 214, 0.121);
   padding: 30px;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgb(0 0 0 / 0.1);
@@ -64,14 +64,14 @@ button {
   font-size: 1rem;
   border: none;
   border-radius: 6px;
-  background-color: #007bff;
+  background-color: #3e2c95c8;
   color: white;
   cursor: pointer;
   transition: background-color 0.25s ease;
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #54069383;
 }
 
 /* Error and success messages */
